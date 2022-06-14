@@ -4,7 +4,7 @@
 # ALGORÍTMO DO EXERCÍCIO
 
 Início
-Q = 6
+<br>Q = 6
 i=0
 ** Enquanto ** i<6 ** Faça **
    Pedir um valor
