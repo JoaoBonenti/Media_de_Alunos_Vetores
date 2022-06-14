@@ -7,7 +7,7 @@ Início
 ````
 Q = 6
 i=0
-*Enquanto* i<6 *Faça*
+* Enquanto * i<6 * Faça *
    Pedir um valor
    Q[i] <- valor
 *Fim Enquanto*
