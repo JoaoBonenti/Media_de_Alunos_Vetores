@@ -4,20 +4,21 @@
 # ALGORÍTMO DO EXERCÍCIO
 
 Início
+````
 <br>Q = 6
 i=0
-<b> Enquanto </b> i<6 ** Faça **
+<b> Enquanto </b> i<6 <b> Faça </b>
    Pedir um valor
    Q[i] <- valor
-** Fim Enquanto **
+<b> Fim Enquanto </b>
 media = Q[1]+Q[2}+Q[3]+Q[4]+Q[5]+Q[6] / 6
 Exibir ("A media de alunos por sala é", media)
-** Enquanto ** i<6 ** Faça **
-   ** Se ** Q[i] < media
+<b> Enquanto </b> i<6 <b> Faça </b>
+   <b> Se </b> Q[i] < media
       Exibir ("A sala " + (i+1) + " tem " + Q[i] + " alunos e tem a quantia de alunos abaixo da media")
-   ** Senão ** 
+   <b> Senão </b> 
       Exibir ("A sala " + (i+1) + " tem " + Q[i] + " alunos e tem a quantia de alunos acima da media")
-** Fim Enquanto **
+<b> Fim Enquanto </b>
 ````
 Fim
 ![Fluxograma Alunos 2](https://user-images.githubusercontent.com/69513119/173472585-322c7458-2e4d-4ac9-b5a0-963ca586b1c8.png)
