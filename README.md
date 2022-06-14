@@ -3,7 +3,7 @@
 
 # ALGORÍTMO DO EXERCÍCIO
 
-Início
+#Início
 
 <br>Q = 6
 <br>i=0
@@ -20,5 +20,5 @@ Início
       <br>Exibir ("A sala " + (i+1) + " tem " + Q[i] + " alunos e tem a quantia de alunos acima da media")
 <br><b> Fim Enquanto </b>
 
-Fim
+#Fim
 ![Fluxograma Alunos 2](https://user-images.githubusercontent.com/69513119/173472585-322c7458-2e4d-4ac9-b5a0-963ca586b1c8.png)
