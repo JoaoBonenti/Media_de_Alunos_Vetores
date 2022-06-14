@@ -1,7 +1,7 @@
 # Media_de_Alunos_Vetores
-##Repositório destinado ao Exercício proposto pelo Professor Daniel Ohata
+## Repositório destinado ao Exercício proposto pelo Professor Daniel Ohata
 
-#ALGORÍTMO DO EXERCÍCIO
+# ALGORÍTMO DO EXERCÍCIO
 
 Início
 ````
