@@ -7,7 +7,7 @@ Início
 
 <br>Q = 6
 i=0
-<b> Enquanto </b> i<6 <b> Faça </b>
+** Enquanto ** i<6 <b> Faça </b>
    Pedir um valor
    Q[i] <- valor
 <b> Fim Enquanto </b>
