@@ -2,7 +2,7 @@
 ## Repositório destinado ao exercício proposto pelo Professor Daniel Ohata
 
 # ALGORÍTMO DO EXERCÍCIO
-Início
+<b> Início </b>
 
 <br>Q[0] = 35
 <br>Q[1] = 4
@@ -17,6 +17,6 @@ Início
       <br>Exibir ("A sala " + (i+1) + " tem " + Q[i] + " alunos e tem mais alunos do que a media")
 <br><b> Fim Enquanto </b>
 
-Fim
+<b> Fim </b>
 
 ![Fluxograma alunos 1](https://user-images.githubusercontent.com/69513119/173484038-ea0b8070-9767-4431-87d0-3b96c8e0a590.png)
